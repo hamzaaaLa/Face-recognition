@@ -52,6 +52,8 @@ Through Deep Learning technologies, we aim to collect, analyze, and provide real
             </ul>
         </li>
     </ul>
+    <h3>Project architeture</h3>
+    <img width="600" alt="Capture d’écran 2024-10-20 152540" src="https://github.com/user-attachments/assets/5ff7af3c-d9ae-42f7-9aff-f1af0660ac7c">
     <h3>Techniques Used</h3>
     <ul>
         <li>
